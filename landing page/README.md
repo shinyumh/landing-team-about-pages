@@ -2,8 +2,6 @@
 
 This is the landing page. It is made from a HTML template, and below is the instruction given by the template.
 
-* [Getting started](#getting-started)
-
 ## Getting started
 * First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
 * Next, use your command line to enter your project directory.
