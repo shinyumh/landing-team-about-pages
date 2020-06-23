@@ -1,8 +1,6 @@
-# Switch
+# Team page
 
-A landing page template.
-
-* [Getting started](#getting-started)
+This is the team page. It is made from a HTML template, and below is the instruction given by the template.
 
 ## Getting started
 * First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
