@@ -1,6 +1,6 @@
-# Switch
+# About page
 
-A landing page template.
+This is the about page. It is made from a HTML template, and below is the instruction given by the template.
 
 * [Getting started](#getting-started)
 
